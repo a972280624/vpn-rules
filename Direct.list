@@ -585,3 +585,8 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# douban
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,douban.fm
+DOMAIN-SUFFIX,doubanio.com
