@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,phind
 DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,coze
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
@@ -42,3 +43,4 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,coze.com
