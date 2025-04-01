@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,phind
 DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,tavily
 
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
@@ -40,6 +41,7 @@ DOMAIN-SUFFIX,phind.com
 
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,tavily.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,grok.com
