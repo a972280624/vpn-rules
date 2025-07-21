@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,phind
 DOMAIN-KEYWORD,grok
 DOMAIN-KEYWORD,tavily
+DOMAIN-KEYWORD,openwebui
 
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
@@ -47,3 +48,4 @@ DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,openwebui.fang-dong.top
