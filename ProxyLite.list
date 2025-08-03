@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,rsshub.fang-dong.top:10011
+DOMAIN-SUFFIX,openwebui.fang-dong.top:10011
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -11,6 +12,7 @@ DOMAIN-KEYWORD,wewerss
 DOMAIN-KEYWORD,rsshub
 DOMAIN-KEYWORD,spotify
 # DOMAIN-KEYWORD,huginn
+DOMAIN-KEYWORD,openwebui
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
