@@ -386,6 +386,8 @@ rules:
   - RULE-SET,国内媒体 / Domain,国内媒体
   
   # 国外媒体
+  - RULE-SET,Reddit / Domain,Reddit 
+  - RULE-SET,Youtube / Domain,YouTube
   - RULE-SET,国外媒体 / Domain,国外媒体
   - RULE-SET,TikTok / Domain,国外媒体
   - RULE-SET,Disney / Domain,国外媒体
@@ -400,14 +402,12 @@ rules:
   
   - RULE-SET,TEST / Domain,Test
   - RULE-SET,Block / Domain,国内  
-  - RULE-SET,Reddit / Domain,Reddit 
   - RULE-SET,GitHub / Domain,GitHub
   - RULE-SET,Telegram / Domain,Telegram
   - RULE-SET,Telegram / IP,Telegram
   - RULE-SET,Apple / Domain,Apple
   - RULE-SET,Apple-CN / Domain,Apple  
   - RULE-SET,Microsoft / Domain,Microsoft
-  - RULE-SET,Youtube / Domain,YouTube
   - RULE-SET,Netflix / Domain,Netflix
   - RULE-SET,Netflix / IP,Netflix,no-resolve
   - RULE-SET,Steam / Domain,Steam
@@ -488,5 +488,6 @@ rule-providers:
   Sony / Domain: {<<: *domain, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list"}
   游戏平台 / Domain: {<<: *class, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list"}
 # GateFireWall / Domain: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/gfw.mrs"}
+
 
 
