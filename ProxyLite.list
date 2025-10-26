@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,spotify.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,wewerss
-DOMAIN-KEYWORD,rsshub
+# DOMAIN-KEYWORD,rsshub
 DOMAIN-KEYWORD,spotify
 # DOMAIN-KEYWORD,huginn
 DOMAIN-KEYWORD,openwebui
