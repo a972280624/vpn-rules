@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,openwebui
 DOMAIN-KEYWORD,appflowy
 DOMAIN-KEYWORD,karakeep
+DOMAIN-KEYWORD,rsshub
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
