@@ -8,8 +8,8 @@ proxy-providers:
 
 # 配置机场名称和url（url用sub-store转换过，结合了两个机场的节点）
   冲浪猫:
-    url: "http://192.168.50.10:3072/T3B9dgzBzdRbBF8Aqx7P/download/%E5%86%B2%E6%B5%AA%E7%8C%AB"
-    type: http
+    url: "填写订阅地址"
+    输入: http
     interval: 86400
     health-check:
       enable: true
@@ -17,8 +17,8 @@ proxy-providers:
       interval: 300
 
   八戒:
-    url: "http://192.168.50.10:3072/T3B9dgzBzdRbBF8Aqx7P/download/%E5%85%AB%E6%88%92"
-    type: http
+    url: "填写订阅地址"
+    输入: http
     interval: 86400
     health-check:
       enable: true
@@ -27,8 +27,8 @@ proxy-providers:
     proxy: 直连 
     
   魔戒:
-    url: "http://192.168.50.10:3072/T3B9dgzBzdRbBF8Aqx7P/download/%E9%AD%94%E6%88%92"
-    type: http
+    url: "填写订阅地址"
+    输入: http
     interval: 86400
     health-check:
       enable: true
@@ -513,5 +513,6 @@ rule-providers:
   Sony / Domain: {<<: *domain, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list"}
   游戏平台 / Domain: {<<: *class, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list"}
 # GateFireWall / Domain: {<<: *domain, url: "https://gh-proxy.com/github.com/metacubex/meta-rules-dat/raw/refs/heads/meta/geo/geosite/gfw.mrs"}
+
 
 
