@@ -11,7 +11,7 @@ DOMAIN-KEYWORD,spotify
 # DOMAIN-KEYWORD,huginn
 DOMAIN-KEYWORD,openwebui
 DOMAIN-KEYWORD,appflowy
-DOMAIN-KEYWORD,karakeep
+# DOMAIN-KEYWORD,karakeep
 DOMAIN-KEYWORD,rsshub
 
 # IP段匹配
