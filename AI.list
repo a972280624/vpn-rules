@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,tavily
 DOMAIN-KEYWORD,openwebui
 DOMAIN-KEYWORD,openrouter
 DOMAIN-KEYWORD,notebooklm
+DOMAIN-KEYWORD,huggingface
 
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
@@ -53,3 +54,4 @@ DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,openwebui.fang-dong.top
 DOMAIN-SUFFIX,notebooklm.google.com  
 DOMAIN-SUFFIX,last.fm
+DOMAIN-SUFFIX,huggingface.co
